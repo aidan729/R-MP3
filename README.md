@@ -1,5 +1,5 @@
 # MP3 Decoder
-**CAUTION: This project is currently unstable and not working correctly. I am currently focused on other projectect but I plan to come back to this at some point in the future.**
+**CAUTION: This project is currently unstable and not working correctly. I am currently focused on other projects but I plan to come back to this at some point in the future.**
 
 ## Summary
 R-MP3 is an attempt at a native rust implemetnation of decoding mp3 files. MP3 Files are digital audio, stored as pulse code modulation (PCM), often consumes significant memory, especially when streamed over the internet, TV, or radio. To mitigate this, compression techniques are employed to reduce file size without compromising audio quality.
